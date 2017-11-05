@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf'?>
+<debug>
+    <filename>debug.log</filename>
+    <modules>
+        <module>Finance</module>
+        <module>Adin</module>
+        <module>HR</module>
+    </modules>
+</debug>
